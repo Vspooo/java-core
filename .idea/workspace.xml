@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e35f67-e5b8-4428-945d-858e875c1291" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/lombok.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm1/Main.java" afterDir="false" />
+    <list default="true" id="a8e35f67-e5b8-4428-945d-858e875c1291" name="Changes" comment="resolved homework">
+      <change afterPath="$PROJECT_DIR$/src/hm1/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm1/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,24 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/PC/java core/libs/lombok.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/java core/libs/lombok.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\java core\libs" />
@@ -108,12 +102,32 @@
       <workItem from="1677604748106" duration="507000" />
       <workItem from="1677694296062" duration="23000" />
       <workItem from="1677694444688" duration="7000" />
-      <workItem from="1677760503149" duration="9662000" />
+      <workItem from="1677760503149" duration="9960000" />
+      <workItem from="1677774916319" duration="7660000" />
     </task>
+    <task id="LOCAL-00001" summary="resolved homework">
+      <created>1677772234951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677772234951</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resolved homework">
+      <created>1677772306598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677772306598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolved homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolved homework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

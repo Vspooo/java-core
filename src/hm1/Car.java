@@ -1,10 +1,42 @@
 package hm1;
 
 public class Car {
-    String model;
-    Number power;
-    double volumeEngine;
-    boolean turbo;
+   private String model;
+    private Number power;
+    private double volumeEngine;
+    private boolean turbo;
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public void setPower(Number power) {
+        this.power = power;
+    }
+
+    public void setVolumeEngine(double volumeEngine) {
+        this.volumeEngine = volumeEngine;
+    }
+
+    public void setTurbo(boolean turbo) {
+        this.turbo = turbo;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public Number getPower() {
+        return power;
+    }
+
+    public double getVolumeEngine() {
+        return volumeEngine;
+    }
+
+    public boolean isTurbo() {
+        return turbo;
+    }
 
     public Car(){
 
@@ -21,7 +53,7 @@ public class Car {
     public String toString() {
         return "Car{" +
                 "model='" + model + '\'' +
-                ", power='" + power + '\'' +
+                ", power=" + power +
                 ", volumeEngine=" + volumeEngine +
                 ", turbo=" + turbo +
                 '}';
