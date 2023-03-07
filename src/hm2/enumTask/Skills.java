@@ -13,12 +13,6 @@ public class Skills {
     private  int exp;
 
 
-    @Override
-    public String toString() {
-        return "Skills{" +
-                "title='" + title + '\'' +
-                ", exp=" + exp +
-                '}';
-    }
+
 
 }
