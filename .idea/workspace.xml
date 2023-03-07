@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e35f67-e5b8-4428-945d-858e875c1291" name="Changes" comment="fixed homework">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/additional/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/additional/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/chain/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/chain/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/chain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/chain/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/enumTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/enumTask/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/enumTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/enumTask/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/enumTask/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/hierarchy/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/hierarchy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/hierarchy/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/hierarchy/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/hierarchy/Workstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/usersArr/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/usersArr/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/usersArr/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/usersArr/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm2/usersArr/UserTwo.java" afterDir="false" />
+    <list default="true" id="a8e35f67-e5b8-4428-945d-858e875c1291" name="Changes" comment="hm 2 done">
+      <change afterPath="$PROJECT_DIR$/src/hm2/additional/Comments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm2/additional/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm2/additional/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm2/additional/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm2/additional/Posts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +61,13 @@
       <recent name="C:\Users\PC\java core\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hm2.enumTask.Main">
-    <configuration name="hm1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hm1.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm2.additional.Main" />
       <module name="java core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hm1.*" />
+          <option name="PATTERN" value="hm2.additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.hm2.enumTask.Main" />
         <item itemvalue="Application.hm2.chain.Main" />
         <item itemvalue="Application.hm2.hierarchy.Main" />
         <item itemvalue="Application.hm2.usersArr.Main" />
-        <item itemvalue="Application.hm1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +150,7 @@
       <workItem from="1677694444688" duration="7000" />
       <workItem from="1677760503149" duration="9960000" />
       <workItem from="1677774916319" duration="8277000" />
-      <workItem from="1678187620841" duration="15478000" />
+      <workItem from="1678187620841" duration="17047000" />
     </task>
     <task id="LOCAL-00001" summary="resolved homework">
       <created>1677772234951</created>
@@ -192,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677783995027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hm 2 done">
+      <created>1678205278711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678205278711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="resolved homework" />
     <MESSAGE value="fixed homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed homework" />
+    <MESSAGE value="hm 2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm 2 done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
