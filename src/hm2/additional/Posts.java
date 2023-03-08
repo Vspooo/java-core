@@ -11,7 +11,7 @@ public class Posts {
     private String title;
     private String body;
 
-    private ArrayList<Comments> comment;
+
 
 
 
