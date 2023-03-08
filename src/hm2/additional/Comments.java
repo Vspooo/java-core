@@ -5,7 +5,7 @@ import lombok.*;
 import java.util.ArrayList;
 
 @Data @Getter @Setter @NoArgsConstructor @AllArgsConstructor
-public class Comments {
+public class Comments{
     private int commentID;
     private int cId;
     private String name;
