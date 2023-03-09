@@ -23,14 +23,14 @@ public class Main {
         comments.add(new Comments(3,3,"name8","gfvhfghfg@gmail.com","body4"));
 
 
-        for (Comments comment : comments) {
-            for (Posts post : posts) {
-                if (post.getPostID() == comment.getCommentID()){
-                    System.out.println(post + "" + comment);
+        for (Posts post : posts) {
+            for (Comments comment : comments) {
+                if (post.getId() == comment.getId()){
+                    post.getComment().add(comment);
                 }
             }
         }
-        
+
         }
 
 
