@@ -1,4 +1,4 @@
-package hm3;
+package hm3.task1;
 
 public interface Printable {
     void print();

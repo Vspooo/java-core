@@ -25,8 +25,9 @@ public class Main {
 
         for (Posts post : posts) {
             for (Comments comment : comments) {
-                if (post.getId() == comment.getId()){
+                if (post.getId() == comment.getPostID()){
                     post.getComment().add(comment);
+                    System.out.println(post);
                 }
             }
         }
